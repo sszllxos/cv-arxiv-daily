@@ -15,6 +15,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#agent>AGENT</a></li>
   </ol>
 </details>
 
@@ -2555,6 +2556,14 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20240303>back to top</a>)</p>
+
+## AGENT
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2020-07-28**|**Relative Positioning of Autonomous Systems using Signals of Opportunity**|Nicolas Souli et.al.|[2004.07090](http://arxiv.org/abs/2004.07090)|null|
 
 <p align=right>(<a href=#updated-on-20240303>back to top</a>)</p>
 
