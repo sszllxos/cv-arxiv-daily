@@ -2563,6 +2563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
 |**2020-07-28**|**Relative Positioning of Autonomous Systems using Signals of Opportunity**|Nicolas Souli et.al.|[2004.07090](http://arxiv.org/abs/2004.07090)|null|
 
 <p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
