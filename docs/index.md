@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2543,7 +2543,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-26**|**Generative AI in Embodied Systems: System-Level Analysis of Performance, Efficiency and Scalability**|Zishen Wan et.al.|[2504.18945](http://arxiv.org/abs/2504.18945)|null|
-|**2025-04-24**|**Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents**|Chaoran Chen et.al.|[2504.17934](http://arxiv.org/abs/2504.17934)|null|
+|**2025-06-05**|**Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents**|Chaoran Chen et.al.|[2504.17934](http://arxiv.org/abs/2504.17934)|null|
 |**2025-03-27**|**Efficient Continual Adaptation of Pretrained Robotic Policy with Online Meta-Learned Adapters**|Ruiqi Zhu et.al.|[2503.18684](http://arxiv.org/abs/2503.18684)|null|
 |**2025-03-06**|**Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**|Pengbo Hu et.al.|[2503.03459](http://arxiv.org/abs/2503.03459)|null|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
